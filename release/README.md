@@ -3,6 +3,8 @@
 本目录包含从比格熊数字导演工作站（bgxiong-ai-story）私有项目中提炼的开源文档，供开发者学习和参考。
 
 > **文档总数**：64 篇 | **总大小**：约 1.4 MB | **整理日期**：2026-07-29
+>
+> **作者**：im.daxiong · **联系**：bgxiong.ai@gmail.com · **项目地址**：[www.bgxiong.com](https://www.bgxiong.com)
 
 ---
 
