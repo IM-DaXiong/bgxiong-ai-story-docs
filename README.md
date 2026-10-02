@@ -1,6 +1,9 @@
 # 比格熊数字导演工作站 — 开源文档
 
 > **作者**：im.daxiong · **联系**：bgxiong.ai@gmail.com · **项目地址**：[www.bgxiong.com](https://www.bgxiong.com)
+>
+> 你可以选择蒸馏全仓文档自制SKILL也可以支付一定的报酬用我们已经做好并且在持续更新的SKILL
+> https://www.bgxiong.com/goods/9p65SRB2Sl
 
 本仓库包含从比格熊数字导演工作站（bgxiong-ai-story）私有项目中提炼的开源文档，供开发者学习和参考。
 
