@@ -1,5 +1,7 @@
 # 比格熊数字导演工作站 — 现行开源文档
 
+比格熊官网 [www.bgxiong.com](https://www.bgxiong.com)｜微信公众号：天途影像｜[比格熊开发治理 Skill](https://www.bgxiong.com/goods/9p65SRB2Sl)
+
 本目录只收录经源码核实的**现行架构**文档，供开发者学习和参考。
 
 > **文档数量**：现行架构正文 4 篇 ｜ **整理日期**：2026-11-12（Asia/Shanghai）
@@ -55,3 +57,5 @@
 ## 使用许可
 
 本文档仅供学习参考。源项目的源代码与商业使用权归原作者所有。
+
+比格熊官网 [www.bgxiong.com](https://www.bgxiong.com)｜微信公众号：天途影像｜[比格熊开发治理 Skill](https://www.bgxiong.com/goods/9p65SRB2Sl)
