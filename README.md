@@ -1,3 +1,5 @@
+> 团队构建/发布/开发测试成品归集规范（2026-11-23）：见 [RELEASE_OUTPUTS.md](RELEASE_OUTPUTS.md)。唯一交付根为 `L:/00Dev/bgxiong-00-release`；这是团队开发交付约束，不改变外部用户安装/运行布局。
+
 # 比格熊数字导演工作站 — 开源文档
 
 比格熊官网 [www.bgxiong.com](https://www.bgxiong.com)｜微信公众号：天途影像｜[比格熊开发治理 Skill](https://www.bgxiong.com/goods/9p65SRB2Sl)
